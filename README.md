@@ -25,7 +25,7 @@ Following libraries needs to be installed using the command ``` pip install "lib
 
 ## Dataset
 
-The MRI scans dataset (**MRIData.zip**) is archived and uploaded into the repository.The folder must be downloaded from repository and uploaded into the working diroctory of the note book. It is essential that user upload the folder without extracting it, since extracting is covered in the code.
+The MRI scans dataset (**MRIData.zip**) is archived and uploaded into the Google drive (thecdata exceeds 25MB, so it cannot be uploaded to the repository).The link for the data is [here](https://drive.google.com/file/d/1df0NMnziOa9xe9-x6Tl_yNeKQAfrzwy4/view?usp=sharing).The folder must be downloaded from  and uploaded into the working diroctory of the notebook. It is essential that user upload the folder without extracting it, since extracting is covered in the code.
 
 The Dataset consist of four classes:
 
