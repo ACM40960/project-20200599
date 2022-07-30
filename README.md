@@ -51,5 +51,5 @@ To predict the stage of Alzheimer's disease, user must provide the path of the i
 ## Authors
 
 - [Varun Nagesh](https://github.com/20200599)
-- [Ganapathy Uduvera Earappa](https://github.com/21200172)
+- [Ganapathy Uduvera Earappa](https://github.com/ACM40960/project-21200172)
 
