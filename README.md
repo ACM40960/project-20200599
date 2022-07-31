@@ -39,6 +39,8 @@ Mild Demented            |  Moderate Demented           |  Non Demented        |
 
 Upload the **Alzheimer’s Multi Class Prediction.ipynb** into Jupyter notebook.
 
+Before running the code the user must be connected to the **internet** as the code downloads the pre-trained model **MobileNet** which is used in the classification.
+
 User can run all the code at once by following the below path :
 - Cell > Run All
 
@@ -47,6 +49,10 @@ User can run all the code at once by following the below path :
 To predict the stage of Alzheimer's disease, user must provide the path of the intended MRI scan in the code as shown in the below snippet of the chunk. The MRI scan can be either the droped out image (not a part modelling or testing process) from original directory or any desired MRI scan.
 
 ![alt text](Images/Capture.JPG)
+
+## Run time
+
+The approximate time to run the entire notebook is around 100 minutes.
 
 ## Authors
 
