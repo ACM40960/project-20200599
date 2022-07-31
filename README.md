@@ -56,6 +56,6 @@ The approximate time to run the entire notebook is around 100 minutes.
 
 ## Authors
 
-- [Varun Nagesh](https://github.com/20200599)
+- [Varun Nagesh](https://github.com/ACM40960/project-20200599)
 - [Ganapathy Uduvera Earappa](https://github.com/ACM40960/project-21200172)
 
