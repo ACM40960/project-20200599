@@ -1,4 +1,4 @@
-# Disease Modelling - Alzheimer’s Disease
+# Alzheimer's disease - Multiclass prediction using CNN
 ![alt text](Images/senior_woman_adult_daughter_unrecognizable_50.jpeg)
 
 Alzheimer's disease is a progressive disorder in which dementia symptoms gradually worsen over time.Even though current Alzheimer's treatments cannot reverse the disease, they can temporarily slow the onset of dementia symptoms and enhance quality of life for those with Alzheimer's. Detecting Alzheimer's disease as soon as it begins is essential, as there is no way to reverse irreversible changes in the brain after they have occurred. Image processing plays a critical role in this process.
